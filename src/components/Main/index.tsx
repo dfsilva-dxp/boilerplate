@@ -1,4 +1,4 @@
-const bla = 'var'
+const blas = 'var'
 const Main = () => (
   <main>
     <h2>React Avançado</h2>
